@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageSlideshow</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="assets">src/main/assets/1.png</string>
+    <string name="textView">Photo Gallery</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">عنوان التطبيق</string>
+    <string name="previous">السابق</string>
+    <string name="next">التالي</string>
+    <string name="assets">الصورة الأولى</string>
+    <string name="textView">معرض الصور</string>
+</resources>
